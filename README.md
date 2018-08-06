@@ -1,7 +1,5 @@
 # Calculator
-![Gif](https://github.com/GregoryKolosov/Calculator/blob/master/Design/CalculatorGif.gif)
-## Icon
-![Icon](https://github.com/GregoryKolosov/Calculator/blob/master/Design/Icon76.png)
+![Gif](https://github.com/GregoryKolosov/Calculator/blob/master/Design/CalculatorGif1.gif)
 ## Features
 * NSExpression for all mathematical operations.
 * Simply but good looking design.
