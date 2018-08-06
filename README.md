@@ -1,6 +1,4 @@
 # Calculator
-Full functional calculator with NSExpression.
-<br>
 ![Gif](https://github.com/GregoryKolosov/Calculator/blob/master/Design/CalculatorGif.gif)
 ## Icon
 ![Icon](https://github.com/GregoryKolosov/Calculator/blob/master/Design/Icon76.png)
